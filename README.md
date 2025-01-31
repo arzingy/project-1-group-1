@@ -6,7 +6,7 @@ We've decided to use [Alzheimer’s Prediction Dataset (Global)](https://www.kag
 - Singh, Aaron
 - Nguyen, Kieran
 - Farladansky, Gennadiy
-- Santacruz Perez, Johanna
+- Santacruz, Johanna
 - Morris, Rache
 
 ## Questions:
