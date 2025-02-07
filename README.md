@@ -17,3 +17,6 @@ We've decided to use [Alzheimer’s Prediction Dataset (Global)](https://www.kag
 5. How does age have an impact on cognitive health?
 6. Is Alzheimer's more prevalent in men or women?
 7. Does BMI and dietary habits have an impact on Alzheimer's?
+
+## Presentation
+[Link to the slides](https://docs.google.com/presentation/d/1djM73LDHUUjZm_VcKeZdbhJ_lm5EEcYZZ1fmvbCRd1k/edit?usp=sharing)
