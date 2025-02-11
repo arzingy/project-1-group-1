@@ -20,3 +20,4 @@ We've decided to use [Alzheimer’s Prediction Dataset (Global)](https://www.kag
 
 ## Presentation
 [Link to the slides](https://docs.google.com/presentation/d/1djM73LDHUUjZm_VcKeZdbhJ_lm5EEcYZZ1fmvbCRd1k/edit?usp=sharing)
+[Rough Draft Analysis]_(https://docs.google.com/document/d/12Xi_vrRZmNh0fCJ4JRGEdpCOceKxe4oyO44_b4MkrN8/edit?usp=sharing)
