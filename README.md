@@ -25,7 +25,6 @@ Overarching Question: What factors can reliably be used to predict an alzheimer'
 
 2. Can BMI and Dietary Habits predict a person’s chances of being diagnosed with Alzheimer’s? 
 
-   ![][image1]
 
 1. As shown in the Box and Whisker Plot above, BMI distribution between individuals with a positive or negative diagnosis is very similar.   
    1. A statistical test was conducted to further analyze the significance of the gathered data.  
