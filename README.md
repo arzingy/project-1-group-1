@@ -9,6 +9,11 @@ We've decided to use [Alzheimer’s Prediction Dataset (Global)](https://www.kag
 - Santacruz, Johanna
 - Morris, Rache
 
+## Presentation
+[Link to the slides](https://docs.google.com/presentation/d/1djM73LDHUUjZm_VcKeZdbhJ_lm5EEcYZZ1fmvbCRd1k/edit?usp=sharing)
+
+[Rough Draft Analysis](https://docs.google.com/document/d/12Xi_vrRZmNh0fCJ4JRGEdpCOceKxe4oyO44_b4MkrN8/edit?usp=sharing)
+
 ## Questions:
 Overarching Question: What factors can reliably be used to predict an alzheimer's Diagnosis?
 
@@ -144,9 +149,3 @@ Overarching Question: What factors can reliably be used to predict an alzheimer'
          </figure>    
    5. **Interpretation:** The t-statistic of \-0.3111 and a p-value of 0.76 suggest that the difference in mean cognitive test scores between individuals with and without Alzheimer's disease is not statistically significant. Since the p-value is greater than the significance level of 0.05, we fail to reject the null hypothesis. This indicates that there is no significant difference in cognitive test scores between the two groups. The bar graph supports this conclusion, showing very similar average cognitive test scores for individuals with and without Alzheimer's disease. The pie charts visualize the distribution of cognitive test scores within each group, further reinforcing the statistical finding that there is no notable difference between the variables. Both bars are of similar height, indicating that the average cognitive test scores for both groups are very close to each other, with only a slight difference of 0.0468 points.  
    6. **Conclusion:** Based on the t-test results and the graphical analysis, we conclude that there is no significant difference in cognitive test scores between individuals with and without Alzheimer's disease. The data does not provide strong evidence to suggest a relationship between Alzheimer's disease and cognitive test performance. Future research with larger sample sizes and additional factors may provide more insights into the potential connections between Alzheimer's disease and cognitive test scores.
-
-
-## Presentation
-[Link to the slides](https://docs.google.com/presentation/d/1djM73LDHUUjZm_VcKeZdbhJ_lm5EEcYZZ1fmvbCRd1k/edit?usp=sharing)
-
-[Rough Draft Analysis](https://docs.google.com/document/d/12Xi_vrRZmNh0fCJ4JRGEdpCOceKxe4oyO44_b4MkrN8/edit?usp=sharing).
