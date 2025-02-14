@@ -25,6 +25,7 @@ Overarching Question: What factors can reliably be used to predict an alzheimer'
 6. How does cholesterol levels affect an Alzheimer's Diagnosis?
 
 ## Analysis:
+Our complete code can be found in _complete_project.ipynb_ file.
 1. What contributing factors can be used to predict an Alzheimer’s Diagnosis?  
    1. Alzheimer’s is a disease that causes are not widely known, in this analysis we used data from “Alzheimer’s Prediction Dataset (Global)” that has data from over 74,000 individuals from various countries that either have a positive or negative Alzheimer’s diagnosis. Using this data we have chosen to focus on these categories (BMI/Dietary Habits, Age, Family History, Country/Gender, Cognitive Test Scores, and Cholesterol Levels)  in order to determine whether they can or cannot be used to predict an individual's likelihood of developing Alzheimer’s.
 
